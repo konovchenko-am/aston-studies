@@ -1,2 +1,2 @@
-﻿# aston_studies
-# Konovchenko Alexander
+﻿# aston-studies
+## Konovchenko Alexander
